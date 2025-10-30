@@ -1,1 +1,1 @@
-[GIS Portfolio](path/to/yourfile.html)
+[GIS Portfolio](GISPortfolio.html)
